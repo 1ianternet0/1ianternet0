@@ -25,6 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1ianternet0&show_icons=true&locale=en" alt="1ianternet0" /></p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=1ianternet0)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1ianternet0&" alt="1ianternet0" /></p>
 
 
