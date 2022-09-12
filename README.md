@@ -28,4 +28,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1ianternet0&" alt="1ianternet0" /></p>
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
