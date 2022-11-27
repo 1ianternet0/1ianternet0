@@ -1,6 +1,6 @@
 ![MasterHead](https://www.shootdartsolutions.com/img/service/web-design.gif)
 
-<h1 align="center">Hi 👋, I'm Victor Ian Baysa</h1>
+<h1 align="center">Hi 👋, I'm Ian Baysa</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1ianternet0&label=Profile%20views&color=0e75b6&style=flat" alt="1ianternet0" /> </p>
